@@ -1,0 +1,27 @@
+/* About.css */
+
+.section {
+    margin-bottom: 1.5rem; /* Adds space between sections */
+  }
+  
+  .section-title {
+    margin-bottom: 0.5rem; /* Adds space below section titles */
+  }
+  
+  .section-content {
+    margin-left: 1rem; /* Adds space on the left of content for indentation */
+  }
+  
+  ul {
+    margin: 0; /* Removes default margin of unordered lists */
+    padding-left: 1.5rem; /* Adds space on the left for list items */
+  }
+  
+  li {
+    margin-bottom: 0.5rem; /* Adds space between list items */
+  }
+  
+  .footer-note {
+    margin-top: 1.5rem; /* Adds space above the footer note */
+  }
+  
